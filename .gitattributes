@@ -1,0 +1,18 @@
+# Cadence design databases and other binaries: never diff or convert line endings
+*.brd   binary
+*.DSN   binary
+*.dsn   binary
+*.dra   binary
+*.psm   binary
+*.pad   binary
+*.zip   binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+
+# Text outputs
+*.dat   text
+*.rpt   text
+*.csv   text
+*.opj   text
+*.map   text

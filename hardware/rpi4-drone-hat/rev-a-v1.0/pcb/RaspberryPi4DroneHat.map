@@ -1,0 +1,130 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MM" placeOnPastemask="no"/>
+  <Body>
+    <MapItem package="MODULE_SC01949">
+      <StepModel type="PRIMARY" file="Female Header 2x20 2.54mm THT.STEP">
+        <Offset x="-10.160000" y="24.130000" z="-1.673800"/>
+        <Rotation x="270.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="RESC1005X40N">
+      <StepModel type="PRIMARY" file="Resistor 0402.STEP">
+        <Offset x="0.000000" y="-0.000000" z="0.350000"/>
+        <Rotation x="270.000" y="0.000" z="-0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="INDPM120120X800N">
+      <StepModel type="PRIMARY" file="CDRH127.STEP">
+        <Offset x="0.000000" y="-0.000000" z="-0.000000"/>
+        <Rotation x="90.000" y="-0.000" z="180.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="DIOM6959X245N">
+      <StepModel type="PRIMARY" file="B540C.STEP">
+        <Offset x="0.000000" y="-0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="LEDC2012X70N">
+      <StepModel type="PRIMARY" file="597-3305-607F.STEP">
+        <Offset x="0.000000" y="0.000000" z="-0.006900"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="AMASS_XT30UPB-M">
+      <StepModel type="PRIMARY" file="XT30UPB-M--3DModel-STEP-510211.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.080500"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="FUSC6125X279N">
+      <StepModel type="PRIMARY" file="Fuse 2410.STEP">
+        <Offset x="0.000000" y="-1.395000" z="1.270000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="DIOM5336X250N">
+      <StepModel type="PRIMARY" file="DO-214.STEP">
+        <Offset x="0.000000" y="0.000000" z="-0.030000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAP_CL05_SAM">
+      <StepModel type="PRIMARY" file="CAP_CL05_SAM.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPC1608X90N">
+      <StepModel type="PRIMARY" file="0603.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAP_EEEFK1E221P">
+      <StepModel type="PRIMARY" file="Aluminium Capacitor 8x10.5.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.059100"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAP_EEEFP1V331AP">
+      <StepModel type="PRIMARY" file="Aluminium Capacitor 10x10.5.STEP">
+        <Offset x="-0.000000" y="0.000000" z="-0.100000"/>
+        <Rotation x="90.000" y="0.000" z="-0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT94P279X129-5N">
+      <StepModel type="PRIMARY" file="SOT23-5.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="JST_SM04B-SRSS-TBLFSN">
+      <StepModel type="PRIMARY" file="SM04B-SRSS-TB(LF)(SN)--3DModel-STEP-269445.STEP">
+        <Offset x="0.000000" y="-0.580000" z="-0.295000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="TO263-5L_XLS-L">
+      <StepModel type="PRIMARY" file="TO263-5L_XLS.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="JST_SM05B-SRSS-TBLFSN">
+      <StepModel type="PRIMARY" file="SM05B-SRSS-TB (LF)(SN)--3DModel-STEP-269445.STEP">
+        <Offset x="0.000000" y="0.150000" z="0.000000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="JST_SM06B-SRSS-TBLFSN">
+      <StepModel type="PRIMARY" file="SM06B-SRSS-TB(LF)(SN)--3DModel-STEP-269445.STEP">
+        <Offset x="-0.000000" y="-2.000000" z="0.000000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOIC127P600X175-8N">
+      <StepModel type="PRIMARY" file="SOIC-8.STEP">
+        <Offset x="0.000000" y="0.000000" z="-0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>

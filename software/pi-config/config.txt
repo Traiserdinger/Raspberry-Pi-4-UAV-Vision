@@ -1,0 +1,31 @@
+# Raspberry Pi 4 Drone HAT Rev A - device tree setup
+# Append to /boot/firmware/config.txt (Ubuntu / Raspberry Pi OS Bookworm), then reboot.
+# Pin mapping follows hardware/rpi4-drone-hat/rev-a-v1.0/netlist/pstxnet.dat.
+
+# J2 FC UART - UART0 (PL011) on GPIO14 TX / GPIO15 RX. Bluetooth is moved off it.
+enable_uart=1
+dtoverlay=disable-bt
+
+# J3 YDLiDAR X2 - UART3 RX on GPIO5 (LiDAR TX). GPIO4 (UART3 TX) is not routed.
+dtoverlay=uart3
+
+# J8 UART5 - GPIO12 TX / GPIO13 RX
+dtoverlay=uart5
+
+# J1 PCA9685 + J6 - I2C1 on GPIO2 SDA / GPIO3 SCL (1.8k pull-ups on the Pi)
+dtparam=i2c_arm=on
+
+# J7 - I2C4 on GPIO6 SDA / GPIO7 SCL (4.7k pull-ups R6/R7 on the HAT)
+dtoverlay=i2c4,pins_6_7
+
+# J4 - SPI0 with CE0 only (GPIO8). GPIO7 (CE1) is used by I2C4.
+dtoverlay=spi0-1cs
+
+# J5 - SPI1 with CS on GPIO24 (default CS GPIO18 is used by M_CTR)
+dtoverlay=spi1-1cs,cs0_pin=24
+
+# J3 M_CTR - LiDAR motor control on PWM0, GPIO18
+dtoverlay=pwm,pin=18,func=2
+
+# J1 OE - PCA9685 output enable (active low). Drive high at boot = servo outputs off.
+gpio=22=op,dh

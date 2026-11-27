@@ -1,0 +1,206 @@
+(ExpressProject "RaspberryPi4DroneHat"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[11/27/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\raspberrypi4dronehat.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\RASPBERRYPI4DRONEHAT.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (0603YC104KAZ2A
+      (FullPartName "0603YC104KAZ2A.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\CAPACITOR 100NF 0603.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AO4407A
+      (FullPartName "AO4407A.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\MOSFET P-CH AO4407A.OLB")
+      (DeviceIndex "0"))
+    (CL05B104KO5NNNC
+      (FullPartName "CL05B104KO5NNNC.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.OLB")
+      (DeviceIndex "0"))
+    (SMBJ18A-13-F
+      (FullPartName "SMBJ18A-13-F.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\DIODE TVS SMBJ18A.OLB")
+      (DeviceIndex "0"))
+    (3-2176337-1
+      (FullPartName "3-2176337-1.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\RESISTOR 0402 3K3.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SMBJ15A
+      (FullPartName "SMBJ15A.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\DIODE TVS SMBJ15A.OLB")
+      (DeviceIndex "0"))
+    (EEEFK1E221P
+      (FullPartName "EEEFK1E221P.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\ALUMINUM CAPACITOR 220UF 25V 8X10.5MM.OLB")
+      (DeviceIndex "0"))
+    (0679L1000-01
+      (FullPartName "0679L1000-01.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\FUSE 1808 15A 250V SMD.OLB")
+      (DeviceIndex "0"))
+    (XT30UPB-M
+      (FullPartName "XT30UPB-M.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\CONNECTOR XT30UPB-M 2 PIN THT.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (B540C-13-F
+      (FullPartName "B540C-13-F.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\DIODE SCHOTTKY 40V 5A SMC.OLB")
+      (DeviceIndex "0"))
+    (EEEFP1V331AP
+      (FullPartName "EEEFP1V331AP.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\ALUMINUM CAPACITOR 10X10.5 35V.OLB")
+      (DeviceIndex "0"))
+    (CDRH127_LDNP-221MC
+      (FullPartName "CDRH127_LDNP-221MC.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\INDUCTOR CDRH127.OLB")
+      (DeviceIndex "0"))
+    (RT9013-33GB
+      (FullPartName "RT9013-33GB.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\RT9013-33GB.OLB")
+      (DeviceIndex "0"))
+    (XL4015E1
+      (FullPartName "XL4015E1.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\BUCK CONVERTER XL4015E1.OLB")
+      (DeviceIndex "0"))
+    (SM06B-SRSS-TBLFSN
+      (FullPartName "SM06B-SRSS-TBLFSN.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\SH1.0 6 PIN SMD.OLB")
+      (DeviceIndex "0"))
+    (SM04B-SRSS-TBLFSN
+      (FullPartName "SM04B-SRSS-TBLFSN.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\SH1.0 4 PIN SMD.OLB")
+      (DeviceIndex "0"))
+    (SM05B-SRSS-TBLFSN
+      (FullPartName "SM05B-SRSS-TBLFSN.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\SH 1.0MM 5 PIN SMD.OLB")
+      (DeviceIndex "0"))
+    (B4B-XH-A
+      (FullPartName "B4B-XH-A.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\JST XH 2.54MM 4 PIN THT.OLB")
+      (DeviceIndex "0"))
+    (SC01949
+      (FullPartName "SC01949.Normal")
+      (LibraryName
+         "C:\USERS\TIEND\ALLERGO PROJECT\LIBRARY\01_SYMBOLS\CONNECTOR RASPBERRY PI 4 40 PIN HEADER THT.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\raspberrypi4dronehat.dsn")
+      (Path "Design Resources" ".\raspberrypi4dronehat.dsn" "Drone HAT")
+      (Path "Outputs")
+      (Select "Design Resources" ".\raspberrypi4dronehat.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 472"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1142 24 490")
+        (Scroll "251 196")
+        (Zoom "162")
+        (Occurrence "/"))
+      (Path "C:\USERS\TIEND\RASPBERRY PI 4 DRONE HAT\RASPBERRYPI4DRONEHAT.DSN")
+      (Schematic "Drone HAT")
+      (Page "Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1142 24 490")
+        (Scroll "-261 -1")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\TIEND\RASPBERRY PI 4 DRONE HAT\RASPBERRYPI4DRONEHAT.DSN")
+      (Schematic "Drone HAT")
+      (Page "Power")))
+  (MPSSessionName "tiend")
+  (ISPCBBASICLICENSE "false"))

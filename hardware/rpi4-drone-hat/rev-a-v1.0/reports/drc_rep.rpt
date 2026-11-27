@@ -1,0 +1,13 @@
+DRC Error Report
+C:/Users/tiend/Raspberry Pi 4 Drone Hat/allegro/RaspberryPi4DroneHat_REV_A.brd
+Fri Nov 27 09:08:47 2026
+
+DRC Error Count Summary
+DRC Error Type,DRC Error Count,Waived DRC Count,Review DRC Count
+
+DFF Cset Summary
+Cset Name,Lock Status,Usage Status
+
+Detailed DRC Errors
+Constraint Name,DRC Marker Location,DRC Subclass,Required Value,Actual Value,Constraint Source,Constraint Source Type,Element 1,Element 2
+

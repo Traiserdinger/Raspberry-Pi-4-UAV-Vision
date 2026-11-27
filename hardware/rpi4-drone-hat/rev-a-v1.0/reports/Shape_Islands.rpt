@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : RaspberryPi4DroneHat_REV_A.brd                )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Fri Nov 27 11:19:53 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 8
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (11.0772 39.1237)  Net: GND
+	Point on shape: (9.3180 25.9320)  Net: GND
+	Point on shape: (46.6722 50.6132)  Net: GND
+	Point on shape: (59.4119 27.9119)  Net: GND
+	Point on shape: (41.3744 17.5884)  Net: GND
+	Point on shape: (20.1989 30.3603)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (10.8348 26.8728)  Net: GND
+	Point on shape: (23.7147 6.3737)  Net: GND

@@ -1,0 +1,80 @@
+Waived DRC Error Report
+C:/Users/tiend/Raspberry Pi 4 Drone Hat/allegro/RaspberryPi4DroneHat_REV_A.brd
+Fri Nov 27 11:19:53 2026
+
+DRC Error Count Summary
+DRC Error Type,DRC Error Count
+Route Keepout,52
+Physical Constraint,15
+Total DRC Errors,67
+
+Detailed DRC Errors
+Constraint Name,DRC Marker Location,DRC Subclass,Required Value,Actual Value,Constraint Source,Constraint Source Type,Element 1,Element 2,Comment
+Line to Route Keepout Spacing,(4.1617 23.1500),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(4.2125 23.1500),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(8.5125 47.9125),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(8.5125 47.9379),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(16.7750 8.2312),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Bottom",Vertical Line Segment "+Bat  Etch/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.7750 8.2566),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Bottom",Vertical Line Segment "+Bat  Etch/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.7750 8.5367),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Bottom",Vertical Line Segment "+Bat  Etch/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.7750 8.5875),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Bottom",Vertical Line Segment "+Bat  Etch/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.8125 8.3375),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.8125 8.3375),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.9125 8.3375),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(16.9125 8.3375),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(18.8375 30.8000),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(18.8375 30.8000),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.3375),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.3883),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.5875),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.5875),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.7867),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(18.8875 29.8375),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(19.0367 30.8000),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(19.0875 30.8000),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(22.7625 20.1125),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(22.8133 20.1125),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(23.0125 20.1125),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(23.0125 20.1125),BOTTOM,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Bottom",Shape "Route Keepout/Bottom",Its Oke
+Line to Route Keepout Spacing,(25.9375 31.8625),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(25.9375 31.8625),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(26.0621 31.8625),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(26.0875 31.8625),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(27.8750 6.3250),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(27.8750 6.3758),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Mcu  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(27.8750 6.5750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(27.8750 6.5750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.3750 30.7500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Servo  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(46.3750 30.7500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Servo  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(46.4250 29.6750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.4250 29.6750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.4250 29.6750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.4250 29.6750),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.5742 30.7500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.6250 30.7500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.8375 6.2500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.8375 6.2500),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+5_Servo  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(46.8375 6.4492),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Servo  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(46.8375 6.5000),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+5_Servo  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 30.8875),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 30.8875),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 31.9125),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+Bat  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 31.9125),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Shape "Route Keepout/Top",Vertical Line Segment "+Bat  Etch/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 31.9250),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Line to Route Keepout Spacing,(53.5500 31.9250),TOP,0 MM,0 MM,DEFAULT,NET SPACING CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",Shape "Route Keepout/Top",Its Oke
+Maximum Neck Length,(7.1000 51.7422),TOP,1 MM,5.8676 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Vertical Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(7.4500 53.6700),TOP,1 MM,6.8575 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(7.8062 49.4582),TOP,1 MM,6.713 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Odd-angle Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(8.0850 54.0200),TOP,1 MM,7.4275 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(8.5125 48.3948),TOP,1 MM,7.4275 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Vertical Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(9.6400 54.0200),TOP,1 MM,2.54 MM,PCS_PWR_5V,PHYSICAL CONSTRAINTS,Horizontal Line Segment "+5_Mcu  Etch/Top",,Its Oke
+Maximum Neck Length,(25.4312 31.8625),TOP,1 MM,1.0125 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(53.5500 31.3938),TOP,1 MM,1.0125 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Vertical Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(53.5500 31.9125),TOP,1 MM,2.3359 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Vertical Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(53.7125 32.0875),TOP,1 MM,2.3109 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(53.8688 34.0898),TOP,1 MM,2.3359 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(53.8750 33.1668),TOP,1 MM,2.3182 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Vertical Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(55.5052 30.8875),TOP,1 MM,7.6472 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(58.2418 31.6688),TOP,1 MM,6.1202 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Odd-angle Line Segment "+Bat  Etch/Top",,Its Oke
+Maximum Neck Length,(59.7865 32.4500),TOP,1 MM,7.6472 MM,PCS_PWR_BAT,PHYSICAL CONSTRAINTS,Horizontal Line Segment "+Bat  Etch/Top",,Its Oke
+

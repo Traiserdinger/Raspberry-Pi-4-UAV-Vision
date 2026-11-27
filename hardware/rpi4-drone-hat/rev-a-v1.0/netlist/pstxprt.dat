@@ -1,0 +1,692 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Nov-27-2026 at 15:24:13 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RASPBERRYPI4DRONEHAT';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS3538@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins3538@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins3538@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,50)',
+ SECTION='';
+
+PART_NAME
+ C10 'EEEFP1V331AP_CAP_EEEFP1V331AP_330 UF_CAP-000016':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4195@ALUMINUM CAPACITOR 10X10.5 35V.EEEFP1V331AP.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4195@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4195@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,90)',
+ SECTION='';
+
+PART_NAME
+ C14 'EEEFK1E221P_CAP_EEEFK1E221P_220 UF_CAP-000029':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4170@ALUMINUM CAPACITOR 220UF 25V 8X10.5MM.EEEFK1E221P.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4170@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4170@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,100)',
+ SECTION='';
+
+PART_NAME
+ C15 '0603YC104KAZ2A_CAPC1608X90N_10UF':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13737@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13737@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13737@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,260)',
+ SECTION='';
+
+PART_NAME
+ C16 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13753@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13753@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13753@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,260)',
+ SECTION='';
+
+PART_NAME
+ C17 'CL05B104KO5NNNC_CAP_CL05_SAM_22 NF_CAP-000026':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13777@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13777@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13777@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,260)',
+ SECTION='';
+
+PART_NAME
+ C18 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13793@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13793@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13793@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,260)',
+ SECTION='';
+
+PART_NAME
+ C19 '0603YC104KAZ2A_CAPC1608X90N_10UF':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13809@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13809@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13809@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,260)',
+ SECTION='';
+
+PART_NAME
+ C2 '0603YC104KAZ2A_CAPC1608X90N_10 UF_CAP-000013':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS3670@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins3670@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins3670@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,50)',
+ SECTION='';
+
+PART_NAME
+ C20 'EEEFK1E221P_CAP_EEEFK1E221P_220 UF_CAP-000029':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6587@ALUMINUM CAPACITOR 220UF 25V 8X10.5MM.EEEFK1E221P.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6587@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6587@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,590)',
+ SECTION='';
+
+PART_NAME
+ C21 'EEEFP1V331AP_CAP_EEEFP1V331AP_330 UF_CAP-000016':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6531@ALUMINUM CAPACITOR 10X10.5 35V.EEEFP1V331AP.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6531@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6531@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,580)',
+ SECTION='';
+
+PART_NAME
+ C25 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS29760@CAPACITOR CERAMIC 100NF 16V 0402 CL05B104KO5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins29760@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins29760@\capacitor ceramic 100nf 16v 0402 cl05b104ko5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,390)',
+ SECTION='';
+
+PART_NAME
+ C26 'EEEFK1E221P_CAP_EEEFK1E221P_220 UF_CAP-000029':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS16905@ALUMINUM CAPACITOR 220UF 25V 8X10.5MM.EEEFK1E221P.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins16905@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins16905@\aluminum capacitor 220uf 25v 8x10.5mm\.\eeefk1e221p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,380)',
+ SECTION='';
+
+PART_NAME
+ C27 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18499@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18499@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18499@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,110)',
+ SECTION='';
+
+PART_NAME
+ C28 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18528@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18528@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18528@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,110)',
+ SECTION='';
+
+PART_NAME
+ C29 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18630@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18630@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18630@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,90)',
+ SECTION='';
+
+PART_NAME
+ C3 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS1295@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins1295@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins1295@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,70)',
+ SECTION='';
+
+PART_NAME
+ C30 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18731@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18731@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18731@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,580)',
+ SECTION='';
+
+PART_NAME
+ C31 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18824@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18824@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18824@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,600)',
+ SECTION='';
+
+PART_NAME
+ C32 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS18855@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins18855@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins18855@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,600)',
+ SECTION='';
+
+PART_NAME
+ C33 '0603YC104KAZ2A_CAPC1608X90N_10 UF_CAP-000013':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS19942@CAPACITOR 10UF 0603.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins19942@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins19942@\capacitor 10uf 0603\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,170)',
+ SECTION='';
+
+PART_NAME
+ C34 'CL05B104KO5NNNC_CAP_CL05_SAM_22 NF_CAP-000026':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS20577@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins20577@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins20577@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,640)',
+ SECTION='';
+
+PART_NAME
+ C35 'CL05B104KO5NNNC_CAP_CL05_SAM_22 NF_CAP-000026':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS20801@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins20801@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins20801@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,130)',
+ SECTION='';
+
+PART_NAME
+ C36 'CL05B104KO5NNNC_CAP_CL05_SAM_1 UF_CAP-000023':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS23305@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins23305@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins23305@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,520)',
+ SECTION='';
+
+PART_NAME
+ C37 'EEEFP1V331AP_CAP_EEEFP1V331AP_330 UF_CAP-000016':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS23436@ALUMINUM CAPACITOR 10X10.5 35V.EEEFP1V331AP.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins23436@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins23436@\aluminum capacitor 10x10.5 35v\.\eeefp1v331ap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,510)',
+ SECTION='';
+
+PART_NAME
+ C4 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS1173@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins1173@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins1173@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,170)',
+ SECTION='';
+
+PART_NAME
+ C5 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS1532@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins1532@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins1532@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,170)',
+ SECTION='';
+
+PART_NAME
+ C6 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS1799@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins1799@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins1799@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,320)',
+ SECTION='';
+
+PART_NAME
+ C7 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS2121@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins2121@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins2121@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,330)',
+ SECTION='';
+
+PART_NAME
+ C8 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS2321@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins2321@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins2321@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,490)',
+ SECTION='';
+
+PART_NAME
+ C9 'CL05B104KO5NNNC_CAP_CL05_SAM_100 NF_CAP-000018':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS2499@CAPACITOR CERAMIC 10PF 50V 0402 CL05C100JB5NNNC.CL05B104KO5NNNC.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins2499@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins2499@\capacitor ceramic 10pf 50v 0402 cl05c100jb5nnnc\.\cl05b104ko5nnnc.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,490)',
+ SECTION='';
+
+PART_NAME
+ D1 'B540C-13-F_DIOM6959X245N_B540C_DIO-000001':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4959@DIODE SCHOTTKY 40V 5A SMC.B540C-13-F.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4959@\diode schottky 40v 5a smc\.\b540c-13-f.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4959@\diode schottky 40v 5a smc\.\b540c-13-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,50)',
+ SECTION='';
+
+PART_NAME
+ D2 '597-3305-607F_LEDC2012X70N_LDO LED':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13721@597-3305-607F.597-3305-607F.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13721@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13721@\597-3305-607f\.\597-3305-607f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,250)',
+ SECTION='';
+
+PART_NAME
+ D3 'B540C-13-F_DIOM6959X245N_B540C_DIO-000001':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6515@DIODE SCHOTTKY 40V 5A SMC.B540C-13-F.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6515@\diode schottky 40v 5a smc\.\b540c-13-f.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6515@\diode schottky 40v 5a smc\.\b540c-13-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,540)',
+ SECTION='';
+
+PART_NAME
+ D4 'SMBJ18A-13-F_DIOM5336X250N_SMBJ18A_DIO-000010':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS20273@DIODE TVS SMBJ18A.SMBJ18A-13-F.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins20273@\diode tvs smbj18a\.\smbj18a-13-f.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins20273@\diode tvs smbj18a\.\smbj18a-13-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,390)',
+ SECTION='';
+
+PART_NAME
+ F1 '0679L1000-01_FUSC6125X279N_15A_MSC-000003':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS16852@FUSE 1808 15A 250V SMD.0679L1000-01.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins16852@\fuse 1808 15a 250v smd\.\0679l1000-01.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins16852@\fuse 1808 15a 250v smd\.\0679l1000-01.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,370)',
+ SECTION='';
+
+PART_NAME
+ J1 'SM05B-SRSS-TBLFSN_JST_SM05B-SRSS-TBLFSN_PCA9685_CON-000015':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS350@SH 1.0MM 5 PIN SMD.SM05B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins350@\sh 1.0mm 5 pin smd\.\sm05b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins350@\sh 1.0mm 5 pin smd\.\sm05b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,10)',
+ SECTION='';
+
+PART_NAME
+ J10 'XT30UPB-M_AMASS_XT30UPB-M_CONNECTOR XT30_CON-000013':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS22673@CONNECTOR XT30UPB-M 2 PIN THT.XT30UPB-M.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins22673@\connector xt30upb-m 2 pin tht\.\xt30upb-m.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins22673@\connector xt30upb-m 2 pin tht\.\xt30upb-m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,500)',
+ SECTION='';
+
+PART_NAME
+ J2 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_FC UART_CON-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS738@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins738@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins738@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,10)',
+ SECTION='';
+
+PART_NAME
+ J3 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_YDLIDAR X2_CON-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS403@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins403@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins403@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,150)',
+ SECTION='';
+
+PART_NAME
+ J4 'SM06B-SRSS-TBLFSN_JST_SM06B-SRSS-TBLFSN_SPI0 CONNECTOR_CON-000005':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS550@SH1.0 6 PIN SMD.SM06B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins550@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins550@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,150)',
+ SECTION='';
+
+PART_NAME
+ J5 'SM06B-SRSS-TBLFSN_JST_SM06B-SRSS-TBLFSN_SPI1 CONNECTOR_CON-000005':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS646@SH1.0 6 PIN SMD.SM06B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins646@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins646@\sh1.0 6 pin smd\.\sm06b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,300)',
+ SECTION='';
+
+PART_NAME
+ J6 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_I2C1 CONNECTOR_CON-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS429@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins429@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins429@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,310)',
+ SECTION='';
+
+PART_NAME
+ J7 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_I2C4 CONNECTOR_CON-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS455@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins455@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins455@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,470)',
+ SECTION='';
+
+PART_NAME
+ J8 'SM04B-SRSS-TBLFSN_JST_SM04B-SRSS-TBLFSN_UART5 CONNECTOR_CON-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS598@SH1.0 4 PIN SMD.SM04B-SRSS-TBLFSN.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins598@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins598@\sh1.0 4 pin smd\.\sm04b-srss-tblfsn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,470)',
+ SECTION='';
+
+PART_NAME
+ J9 'XT30UPB-M_AMASS_XT30UPB-M_CONNECTOR XT30_CON-000013':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS16801@CONNECTOR XT30UPB-M 2 PIN THT.XT30UPB-M.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins16801@\connector xt30upb-m 2 pin tht\.\xt30upb-m.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins16801@\connector xt30upb-m 2 pin tht\.\xt30upb-m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,370)',
+ SECTION='';
+
+PART_NAME
+ L1 'CDRH127_LDNP-221MC_INDPM120120X800N_22 UH_IND-000001':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS21829@INDUCTOR CDRH127.CDRH127_LDNP-221MC.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins21829@\inductor cdrh127\.\cdrh127_ldnp-221mc.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins21829@\inductor cdrh127\.\cdrh127_ldnp-221mc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,170)',
+ SECTION='';
+
+PART_NAME
+ L2 'CDRH127_LDNP-221MC_INDPM120120X800N_22 UH_IND-000001':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS22463@INDUCTOR CDRH127.CDRH127_LDNP-221MC.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins22463@\inductor cdrh127\.\cdrh127_ldnp-221mc.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins22463@\inductor cdrh127\.\cdrh127_ldnp-221mc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,660)',
+ SECTION='';
+
+PART_NAME
+ Q1 'AO4407A_SOIC127P600X175-8N_AO4407A_Q-000004':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS24533@MOSFET P-CH AO4407A.AO4407A.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins24533@\mosfet p-ch ao4407a\.\ao4407a.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins24533@\mosfet p-ch ao4407a\.\ao4407a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,270)',
+ SECTION='';
+
+PART_NAME
+ R1 '3-2176337-1_RESC1005X40N_3.3K_RES-000005':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4611@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4611@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4611@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,40)',
+ SECTION='';
+
+PART_NAME
+ R10 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS24578@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins24578@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins24578@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,290)',
+ SECTION='';
+
+PART_NAME
+ R2 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4583@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4583@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4583@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,120)',
+ SECTION='';
+
+PART_NAME
+ R3 '3-2176337-1_RESC1005X40N_220_RES-000010':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13659@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13659@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13659@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,230)',
+ SECTION='';
+
+PART_NAME
+ R4 '3-2176337-1_RESC1005X40N_3.3K_RES-000005':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6475@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6475@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6475@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,530)',
+ SECTION='';
+
+PART_NAME
+ R5 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6655@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6655@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6655@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,610)',
+ SECTION='';
+
+PART_NAME
+ R6 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS14986@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins14986@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins14986@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,570)',
+ SECTION='';
+
+PART_NAME
+ R7 '3-2176337-1_RESC1005X40N_4.7K_RES-000011':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS15002@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins15002@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins15002@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(50,570)',
+ SECTION='';
+
+PART_NAME
+ R9 '3-2176337-1_RESC1005X40N_10K_RES-000006':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS19824@RESISTOR 0402 3K3.3-2176337-1.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins19824@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins19824@\resistor 0402 3k3\.\3-2176337-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,570)',
+ SECTION='';
+
+PART_NAME
+ U1 'SC01949_MODULE_SC01949_CONNECTOR RASPBERRY PI 4 40 PIN HEADER THT_CON-000012':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS110@CONNECTOR RASPBERRY PI 4 40 PIN HEADER THT.SC01949.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins110@\connector raspberry pi 4 40 pin header tht\.\sc01949.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page1_ins110@\connector raspberry pi 4 40 pin header tht\.\sc01949.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,30)',
+ SECTION='';
+
+PART_NAME
+ U2 'XL4015E1_TO263-5L_XLS-L_XL4015E1_IC-000031':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS4064@BUCK CONVERTER XL4015E1.XL4015E1.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins4064@\buck converter xl4015e1\.\xl4015e1.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins4064@\buck converter xl4015e1\.\xl4015e1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,70)',
+ SECTION='';
+
+PART_NAME
+ U3 'RT9193-33GB_SOT94P279X129-5N_RT9193-33GB':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS13629@RT9193-33GB.RT9193-33GB.NORMAL(CHIPS)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins13629@\rt9193-33gb\.\rt9193-33gb.normal\(chips)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins13629@\rt9193-33gb\.\rt9193-33gb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,230)',
+ SECTION='';
+
+PART_NAME
+ U4 'XL4015E1_TO263-5L_XLS-L_XL4015E1_IC-000031':;
+
+SECTION_NUMBER 1
+ '@RASPBERRYPI4DRONEHAT.DRONE HAT(SCH_1):INS6491@BUCK CONVERTER XL4015E1.XL4015E1.NORMAL(SCH_1)':
+ C_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):ins6491@\buck converter xl4015e1\.\xl4015e1.normal\(sch_1)',
+ P_PATH='@raspberrypi4dronehat.\drone hat\(sch_1):page2_ins6491@\buck converter xl4015e1\.\xl4015e1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,560)',
+ SECTION='';
+
+END.

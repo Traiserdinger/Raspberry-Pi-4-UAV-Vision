@@ -1,0 +1,18 @@
+# Cadence OrCAD / Allegro working files
+*.lck
+*.DSNlck
+*.DBK
+*.jrl
+*.log
+*,[0-9]
+*,[0-9][0-9]
+signoise.run/
+*-PSpiceFiles/
+CapOutput*.ps
+stepFacetFiles4Map/
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

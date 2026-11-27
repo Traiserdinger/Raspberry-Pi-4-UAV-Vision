@@ -1,0 +1,12 @@
+Unconnected Pin Pairs Report
+C:/Users/tiend/Raspberry Pi 4 Drone Hat/allegro/RaspberryPi4DroneHat_REV_A.brd
+Fri Nov 27 11:19:53 2026
+ 
+Total Unconnected Pin Pairs: 3
+ 
+SHIELD
+From: U1.S2 (61.5000 52.7500) To: U1.S3 (61.5000 3.7500)
+From: U1.S4 (3.5000 3.7500) To: U1.S1 (3.5000 52.7500)
+From: U1.S3 (61.5000 3.7500) To: U1.S4 (3.5000 3.7500)
+
+
